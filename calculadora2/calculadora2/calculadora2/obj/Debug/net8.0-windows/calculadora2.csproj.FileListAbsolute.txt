@@ -1,0 +1,16 @@
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\bin\Debug\net8.0-windows\calculadora2.exe
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\bin\Debug\net8.0-windows\calculadora2.deps.json
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\bin\Debug\net8.0-windows\calculadora2.runtimeconfig.json
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\bin\Debug\net8.0-windows\calculadora2.dll
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\bin\Debug\net8.0-windows\calculadora2.pdb
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.Form1.resources
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.csproj.GenerateResource.cache
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.AssemblyInfoInputs.cache
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.AssemblyInfo.cs
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.csproj.CoreCompileInputs.cache
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.dll
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\refint\calculadora2.dll
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.pdb
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\calculadora2.genruntimeconfig.cache
+U:\DS CRISTIANO\calculadora2\calculadora2\calculadora2\obj\Debug\net8.0-windows\ref\calculadora2.dll
