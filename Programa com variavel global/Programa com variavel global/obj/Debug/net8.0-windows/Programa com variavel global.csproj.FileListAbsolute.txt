@@ -1,0 +1,16 @@
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\bin\Debug\net8.0-windows\Programa com variavel global.exe
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\bin\Debug\net8.0-windows\Programa com variavel global.deps.json
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\bin\Debug\net8.0-windows\Programa com variavel global.runtimeconfig.json
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\bin\Debug\net8.0-windows\Programa com variavel global.dll
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\bin\Debug\net8.0-windows\Programa com variavel global.pdb
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa_com_variavel_global.Form1.resources
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.csproj.GenerateResource.cache
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.AssemblyInfoInputs.cache
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.AssemblyInfo.cs
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.csproj.CoreCompileInputs.cache
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.dll
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\refint\Programa com variavel global.dll
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.pdb
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\Programa com variavel global.genruntimeconfig.cache
+U:\DS CRISTIANO\Programa com variavel global\Programa com variavel global\obj\Debug\net8.0-windows\ref\Programa com variavel global.dll
