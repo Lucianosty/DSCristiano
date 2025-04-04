@@ -1,0 +1,16 @@
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\bin\Debug\net8.0-windows\Verificador de Números Primos.exe
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\bin\Debug\net8.0-windows\Verificador de Números Primos.deps.json
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\bin\Debug\net8.0-windows\Verificador de Números Primos.runtimeconfig.json
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\bin\Debug\net8.0-windows\Verificador de Números Primos.dll
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\bin\Debug\net8.0-windows\Verificador de Números Primos.pdb
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador_de_Números_Primos.Form1.resources
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.csproj.GenerateResource.cache
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.GeneratedMSBuildEditorConfig.editorconfig
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.AssemblyInfoInputs.cache
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.AssemblyInfo.cs
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.csproj.CoreCompileInputs.cache
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.dll
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\refint\Verificador de Números Primos.dll
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.pdb
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\Verificador de Números Primos.genruntimeconfig.cache
+U:\DS CRISTIANO\Verificador de Números Primos\Verificador de Números Primos\obj\Debug\net8.0-windows\ref\Verificador de Números Primos.dll
